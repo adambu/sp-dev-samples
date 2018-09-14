@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint.WebHooks.MVC", "SharePoint.WebHooks.MVC\SharePoint.WebHooks.MVC.csproj", "{FA2E5494-0B1C-4C40-866A-A7A0180B0F72}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint.WebHooks.Job", "SharePoint.WebHooks.Job\SharePoint.WebHooks.Job.csproj", "{3931A0E5-11F9-47FE-996A-7E1EFFF7F90D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint.WebHooks.Common", "SharePoint.WebHooks.Common\SharePoint.WebHooks.Common.csproj", "{F7BF4B65-F659-4B33-A5E0-F6CA1568A361}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6580FB85-E6FE-458D-B33C-2869B3810A6B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive - Microsoft\InstanceDetails.txt = ..\..\..\..\OneDrive - Microsoft\InstanceDetails.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +35,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74366E5B-8E84-41C7-9BEB-6A42DD897403}
 	EndGlobalSection
 EndGlobal
