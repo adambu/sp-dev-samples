@@ -1,0 +1,40 @@
+Web App Name:
+listwebhookdemo
+
+ResourceGroup:  ListWebHookDemo
+
+URL:
+https://listwebhookdemo.azurewebsites.net
+
+Client ID: 
+ef75f8e4-e83f-4803-9476-5fda15b12ff3
+
+Client Secret:
+f0ybK8T8PyuN0sbEsaAx43j3zCS679xv0zh3iKNW9GM=
+
+Storage Account Primary connection string:
+DefaultEndpointsProtocol=https;AccountName=listwebhookdemo;AccountKey=ppKbPdHFs4EtRgoRR83OloYymq0hOIO/VWNxHD5eY9C83vryANfq86aS9B/c4EgLPf7/cz0FdsF+KD9E1lm9sg==;EndpointSuffix=core.windows.net
+Client Access:
+167.220.0.147
+
+WebHooksAdmin Password:
+'Pass@word1'
+
+SQL Database Name:
+ListWebHookDemo_db
+
+SQL Server Name:
+ListWebHookDemo.database.windows.net
+
+SQL Server Admin User Name:
+demo
+
+SQL Server Password:
+Nyreekri!
+
+CREATE LOGIN WebHooksAdmin WITH PASSWORD = 'Pass@word1'
+
+
+
+
+
