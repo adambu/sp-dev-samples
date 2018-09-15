@@ -31,7 +31,7 @@ namespace SharePoint.WebHooks.MVC.Controllers
                 if (cc != null)
                 {
                     // Usage tracking
-                    SampleUsageTracking(cc);
+                    //SampleUsageTracking(cc);
 
                     // Hookup event to capture access token
                     cc.ExecutingWebRequest += Cc_ExecutingWebRequest;
